@@ -1,6 +1,9 @@
-tiktoken
-langchain
-openai
+bs4
 chromadb
+langchain
+langchain-community
 langchain-openai
+langchainhub
+openai
 python-dotenv
+tiktoken
